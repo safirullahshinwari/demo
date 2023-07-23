@@ -64,5 +64,6 @@ class demoController extends Controller
     public function destroy(string $id)
     {
         //
+        return "the model has been deleted";
     }
 }

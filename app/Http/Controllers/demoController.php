@@ -12,7 +12,7 @@ class demoController extends Controller
     public function index()
     {
         //
-        // return "I am from index function";
+      return "I am from index function";
 
         // return redirect()->route('demo.create');
     }
